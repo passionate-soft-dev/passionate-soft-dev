@@ -15,7 +15,9 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
 - Languages:
 
 
-   ![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E) 
+   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white) 
+   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
     ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white)
@@ -60,6 +62,7 @@ I am also detail-oriented, a swift learner, and comfortable with working in a fa
 - **Real-Time Communication**:
 
    ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+   ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 - **Date & Time Formatting**:
 
