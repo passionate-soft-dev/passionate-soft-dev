@@ -3,10 +3,7 @@
 
 ## Introduction
 
-👋 Hi 👋, I am a developer focused on data management and digitalizing business workflows through web applications. I enjoy working with small to medium businesses to create internal or external systems to support their business needs.
-
-I can help you or your business create a website from a design concept to a completed, polished, and professional site. I can also help maintain and update existing websites.
-I am also detail-oriented, a swift learner, and comfortable with working in a fast-paced team.
+👋 Hi 👋, I specialize in creating and maintaining clean, professional, and user-friendly websites. With experience in developing sites for startups, small businesses, and individuals, I can take your project from concept to completion, delivering a polished, high-quality website. Whether you need a brand-new site or updates to an existing one, I am here to help bring your vision to life.
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
